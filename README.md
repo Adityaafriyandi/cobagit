@@ -1,2 +1,0 @@
-# cobagit
-Coba GIT
